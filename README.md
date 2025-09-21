@@ -18,7 +18,7 @@ This platform is **scalable, intuitive, and highly adaptive**, enabling deployme
 ---
 
 
-**Demo video:** https://youtu.be/cUvv7FIWFMQ
+## Demo video: [Video Demo](https://youtu.be/cUvv7FIWFMQ)
 
 ---
 
