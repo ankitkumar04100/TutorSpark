@@ -13,6 +13,11 @@ This platform is **scalable, intuitive, and highly adaptive**, enabling deployme
 
 ---
 
+## App Demo Link
+Link: https://www.blackbox.ai/share/135940ef-f167-4003-9488-074d1972c62f?fullScreen=true
+
+---
+
 ## 🧩 Inspiration
 The idea for TutorSpark originated from observing real-world classroom challenges. Students often struggle to stay engaged with static educational materials, while teachers spend hours preparing exercises and tracking progress manually. In particular, we noticed:  
 
