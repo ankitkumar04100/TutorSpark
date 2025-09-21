@@ -13,12 +13,12 @@ This platform is **scalable, intuitive, and highly adaptive**, enabling deployme
 
 ---
 
-## App Demo Link: [App Demo](https://www.blackbox.ai/share/135940ef-f167-4003-9488-074d1972c62f?fullScreen=true)
+## App Demo: [TutorSpark](https://www.blackbox.ai/share/135940ef-f167-4003-9488-074d1972c62f?fullScreen=true)
 
 ---
 
 
-## Demo video: [Video Demo](https://youtu.be/cUvv7FIWFMQ)
+## Demo video: [TutorSpark Youtube Video](https://youtu.be/cUvv7FIWFMQ)
 
 ---
 
