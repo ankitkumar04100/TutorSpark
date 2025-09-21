@@ -230,6 +230,18 @@ TutorSpark’s core innovation lies in **its AI-powered question generation and 
 
 ---
 
+## 🔗 Try It Out / Code Links
+
+You can explore and run the full TutorSpark project by accessing the frontend and backend repositories on GitHub:
+
+- **Frontend Repository:** [TutorSpark-Frontend](https://github.com/ankitkumar04100/TutorSpark-Frontend)  
+  This contains the complete React + Tailwind CSS frontend with all UI components, question generator, student preview, dashboard, and export features.
+
+- **Backend Repository:** [TutorSpark-Backend](https://github.com/ankitkumar04100/TutorSpark-Backend)  
+  This contains the Node.js + Express.js backend with API routes, MongoDB integration, Firebase authentication, and OpenAI GPT API for AI-generated questions and hints.
+
+---
+
 ## 🏆 Accomplishments
 
 - Developed a **fully functional AI-powered prototype**.  
