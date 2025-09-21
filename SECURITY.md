@@ -5,7 +5,7 @@ We actively maintain and monitor all released versions of TutorSpark. Please ens
 
 ## Reporting a Vulnerability
 If you discover a security vulnerability in TutorSpark, please report it immediately:
-- **Email:** security@tutorspark.com (replace with your contact email)
+- **Email:** security@tutorspark.com 
 - **GitHub Issues:** Create a private issue labeled "Security" (do not post sensitive details publicly)
 
 Please include:
