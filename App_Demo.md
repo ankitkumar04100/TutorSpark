@@ -1,1 +1,1 @@
-## App Demo: [TutorSpark App](https://www.blackbox.ai/share/135940ef-f167-4003-9488-074d1972c62f?fullScreen=true)
+## App Demo: [TutorSpark App](https://spark-learn-ai-48.lovable.app)
